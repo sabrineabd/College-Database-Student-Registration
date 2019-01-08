@@ -1,1 +1,1 @@
-# College-Database-Student-Registration
+# CourseRegistrationApp
